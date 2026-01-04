@@ -1,3 +1,29 @@
+# Portfolio – Cyber Life Project
+
+This repository contains the source code for my personal portfolio website.
+
+The portfolio is developed not only as a showcase of my work, but also as a practical cyber life project where I apply secure development practices, basic threat modeling, testing, and documentation.
+
+## Objectives
+- Build a clean, professional portfolio website
+- Apply security-by-design principles
+- Treat the site as a real-world public-facing application
+- Continuously test, improve, and document security measures
+
+## Scope
+- Frontend: HTML, CSS, JavaScript
+- Backend (optional): Node.js and Express
+- Hosting: Secure deployment with HTTPS
+- Security focus: Input validation, secure configuration, basic vulnerability assessment
+
+## Status
+In progress
+
+## Disclaimer
+This project is intended for educational and ethical learning purposes only. All testing is performed strictly on my own application.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
