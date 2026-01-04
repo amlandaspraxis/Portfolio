@@ -16,7 +16,8 @@ The portfolio is developed as a long-term cyber life project where I apply secur
 - Frontend: HTML, CSS, JavaScript (UI/UX focused layout and interactions)
 - Backend (optional): Node.js and Express
 - Hosting: Secure deployment with HTTPS
-
+- Security focus: Input validation, secure configuration, basic vulnerability assessment
+  
 ## Status
 In progress
 
